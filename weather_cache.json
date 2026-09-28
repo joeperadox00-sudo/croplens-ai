@@ -1,0 +1,176 @@
+{
+  "Cauvery Delta (Thanjavur / Trichy)": {
+    "location": "Cauvery Delta (Thanjavur / Trichy)",
+    "date_str": "Monday, September 28, 2026",
+    "time_str": "10:24 AM",
+    "temperature_c": 33.1,
+    "humidity_pct": 51,
+    "wind_speed_kmh": 6.3,
+    "condition": "Clear Sky",
+    "icon": "☀️",
+    "is_good": true,
+    "verdict": "🟢 Weather is Good Today — Recommended for Farming & Sowing",
+    "color": "#22c55e",
+    "summary": "Optimal weather conditions today. Favorable temperature and soil moisture levels support rapid seed germination, root proliferation, and safe foliar spraying.",
+    "work_time": "6:30 AM – 10:30 AM & 4:00 PM – 6:30 PM",
+    "sow_time": "7:00 AM – 9:30 AM (Prime germination window)",
+    "daily_forecasts": [
+      {
+        "date": "2026-09-28",
+        "max_temp": 35.1,
+        "min_temp": 25.7,
+        "condition": "Thunderstorm",
+        "icon": "⛈️",
+        "rain_mm": 13.9
+      },
+      {
+        "date": "2026-09-29",
+        "max_temp": 34.2,
+        "min_temp": 25.4,
+        "condition": "Overcast Skies",
+        "icon": "☁️",
+        "rain_mm": 0.0
+      },
+      {
+        "date": "2026-09-30",
+        "max_temp": 34.5,
+        "min_temp": 25.7,
+        "condition": "Thunderstorm",
+        "icon": "⛈️",
+        "rain_mm": 6.8
+      },
+      {
+        "date": "2026-10-01",
+        "max_temp": 33.7,
+        "min_temp": 25.0,
+        "condition": "Scattered Showers",
+        "icon": "🌦️",
+        "rain_mm": 4.3
+      },
+      {
+        "date": "2026-10-02",
+        "max_temp": 33.2,
+        "min_temp": 24.2,
+        "condition": "Light Drizzle",
+        "icon": "🌦️",
+        "rain_mm": 2.4
+      }
+    ]
+  },
+  "Chennai & North Coastal TN": {
+    "location": "Chennai & North Coastal TN",
+    "date_str": "Thursday, September 24, 2026",
+    "time_str": "01:42 PM",
+    "temperature_c": 32.1,
+    "humidity_pct": 58,
+    "wind_speed_kmh": 19.7,
+    "condition": "Overcast Skies",
+    "icon": "☁️",
+    "is_good": true,
+    "verdict": "🟢 Weather is Good Today — Recommended for Farming & Sowing",
+    "color": "#22c55e",
+    "summary": "Optimal weather conditions today. Favorable temperature and soil moisture levels support rapid seed germination, root proliferation, and safe foliar spraying.",
+    "work_time": "6:30 AM – 10:30 AM & 4:00 PM – 6:30 PM",
+    "sow_time": "7:00 AM – 9:30 AM (Prime germination window)",
+    "daily_forecasts": [
+      {
+        "date": "2026-09-24",
+        "max_temp": 32.5,
+        "min_temp": 27.7,
+        "condition": "Overcast Skies",
+        "icon": "☁️",
+        "rain_mm": 0.0
+      },
+      {
+        "date": "2026-09-25",
+        "max_temp": 35.3,
+        "min_temp": 27.1,
+        "condition": "Moderate Drizzle",
+        "icon": "🌦️",
+        "rain_mm": 1.6
+      },
+      {
+        "date": "2026-09-26",
+        "max_temp": 35.6,
+        "min_temp": 26.6,
+        "condition": "Scattered Showers",
+        "icon": "🌦️",
+        "rain_mm": 3.6
+      },
+      {
+        "date": "2026-09-27",
+        "max_temp": 34.7,
+        "min_temp": 25.9,
+        "condition": "Light Drizzle",
+        "icon": "🌦️",
+        "rain_mm": 0.3
+      },
+      {
+        "date": "2026-09-28",
+        "max_temp": 35.3,
+        "min_temp": 26.4,
+        "condition": "Light Drizzle",
+        "icon": "🌦️",
+        "rain_mm": 0.6
+      }
+    ]
+  },
+  "Madurai & South Central TN": {
+    "location": "Madurai & South Central TN",
+    "date_str": "Friday, September 25, 2026",
+    "time_str": "11:37 AM",
+    "temperature_c": 34.6,
+    "humidity_pct": 37,
+    "wind_speed_kmh": 25.3,
+    "condition": "Overcast Skies",
+    "icon": "☁️",
+    "is_good": true,
+    "verdict": "🟡 Moderate Weather — Proceed with Caution",
+    "color": "#f59e0b",
+    "summary": "Warm ambient temperatures with moderate breeze. Acceptable for fieldwork, but irrigate plots immediately after sowing to protect seed moisture.",
+    "work_time": "Early Morning: 6:00 AM – 9:00 AM & Evening: 4:30 PM – 6:30 PM",
+    "sow_time": "6:30 AM – 8:30 AM (Early morning only)",
+    "daily_forecasts": [
+      {
+        "date": "2026-09-25",
+        "max_temp": 35.5,
+        "min_temp": 27.4,
+        "condition": "Overcast Skies",
+        "icon": "☁️",
+        "rain_mm": 0.0
+      },
+      {
+        "date": "2026-09-26",
+        "max_temp": 36.7,
+        "min_temp": 24.7,
+        "condition": "Overcast Skies",
+        "icon": "☁️",
+        "rain_mm": 0.0
+      },
+      {
+        "date": "2026-09-27",
+        "max_temp": 36.8,
+        "min_temp": 27.0,
+        "condition": "Light Drizzle",
+        "icon": "🌦️",
+        "rain_mm": 0.3
+      },
+      {
+        "date": "2026-09-28",
+        "max_temp": 37.3,
+        "min_temp": 27.0,
+        "condition": "Dense Drizzle",
+        "icon": "🌧️",
+        "rain_mm": 2.1
+      },
+      {
+        "date": "2026-09-29",
+        "max_temp": 35.9,
+        "min_temp": 26.1,
+        "condition": "Thunderstorm",
+        "icon": "⛈️",
+        "rain_mm": 3.3
+      }
+    ]
+  }
+}
