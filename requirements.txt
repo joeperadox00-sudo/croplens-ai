@@ -1,0 +1,9 @@
+# CROPLENS AI: Core Requirements
+# 100% Offline, CPU-native, No External Cloud APIs required
+
+torch>=2.0.0
+torchvision>=0.15.0
+streamlit>=1.30.0
+pillow>=9.5.0
+numpy>=1.24.0
+matplotlib>=3.7.0
